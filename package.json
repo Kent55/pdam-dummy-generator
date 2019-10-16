@@ -1,0 +1,15 @@
+{
+  "name": "pdam",
+  "version": "1.0.0",
+  "description": "Generation library for PDAM coursework using faker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "up821309, up804392, up825319",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "pg": "^7.12.1"
+  }
+}

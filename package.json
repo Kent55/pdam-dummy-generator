@@ -9,7 +9,10 @@
   "author": "up821309, up804392, up825319",
   "license": "ISC",
   "dependencies": {
+    "cli-step": "^1.0.2",
     "faker": "^4.1.0",
-    "pg": "^7.12.1"
+    "pg": "^7.12.1",
+    "pg-escape": "^0.2.0",
+    "pg-format": "^1.0.4"
   }
 }
